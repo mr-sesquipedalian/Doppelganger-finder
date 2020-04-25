@@ -1,7 +1,4 @@
 # Bollywood Celebrity Doppleganger Finder
-A script to find your celebrity doppleganger!
-
-![Example 1](examples/example1.png?raw=true)
 
 ## To Run The Code:
 The first time you run the code, uncompress `train_dir.zip` and `clf.joblib.zip`.
