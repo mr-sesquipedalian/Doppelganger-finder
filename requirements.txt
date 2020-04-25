@@ -17,7 +17,7 @@ cmake==3.15.3
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
-Django==2.2.7
+Django==2.2.10
 dlib==19.18.0
 emoji==0.5.4
 face-recognition-models==0.3.0
