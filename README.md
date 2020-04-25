@@ -1,4 +1,4 @@
-# Celebrity Doppleganger Finder
+# Bollywood Celebrity Doppleganger Finder
 A script to find your celebrity doppleganger!
 
 ![Example 1](examples/example1.png?raw=true)
@@ -27,12 +27,3 @@ do
 done
 ```
 
-For the [PINS Dataset](https://www.kaggle.com/frules11/pins-face-recognition):
-
-```
-for name in ./*/ ;
-do
-     newname="$(echo "$name" | cut -c8-)";  # create new name without first 7 char
-     mv "$name" "$newname"; # rename dir
-done
-```
