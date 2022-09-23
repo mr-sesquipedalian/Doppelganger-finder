@@ -74,7 +74,7 @@ praw==6.4.0
 prawcore==1.0.1
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-protobuf==3.10.0
+protobuf==3.18.3
 psaw==0.0.7
 ptyprocess==0.6.0
 pyasn1==0.4.8
